@@ -1,4 +1,4 @@
-# `dbank`
+# `DKeeper`
 
 A simple decentralized note application built on the ICP blockchain.
 One can add or delete notes from his notes web page wall.
